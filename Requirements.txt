@@ -1,0 +1,15 @@
+
+#### requirements.txt
+
+```txt
+numpy
+pandas
+scikit-learn
+torch
+transformers
+onnx
+onnxruntime
+pytorch-lightning
+pdf2image
+pytesseract
+datasets
